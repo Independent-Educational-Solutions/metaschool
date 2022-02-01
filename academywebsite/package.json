@@ -1,0 +1,25 @@
+{
+  "name": "academywebsite",
+  "version": "1.0.0",
+  "description": "immersive school webpage",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Independent-Educational-Solutions/metaschool.git"
+  },
+  "keywords": [
+    "\"school\"",
+    "\"education\"",
+    "immersive",
+    "learning\""
+  ],
+  "author": "Jerald J Cheesborough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Independent-Educational-Solutions/metaschool/issues"
+  },
+  "homepage": "https://github.com/Independent-Educational-Solutions/metaschool#readme"
+}
